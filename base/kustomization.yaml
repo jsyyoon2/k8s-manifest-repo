@@ -3,4 +3,3 @@ kind: Kustomization
 resources:
   - test-deployment.yaml
   - test-service.yaml
-  - test-ingress.yaml
